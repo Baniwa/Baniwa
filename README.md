@@ -1,5 +1,5 @@
 
-<h3>こんにちは、皆さん！私はジュリアです、23歳です。すぐに、あなたが見る最も優れたプログラマになります<h3> 
+<h3>こんにちは、皆さん！私はジュリアです, 23歳です。すぐに, あなたが見る最も優れたプログラマになります<h3> 
 
 <div style="display:  inline_block"><br>  
   <img align="left" alt="Baniwa-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
