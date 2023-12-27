@@ -1,5 +1,5 @@
 <div style="display: inline_block"><br>
-  <img align="center" alt="Baniwa-gif" height="350" width="350" src="https://github.com/Baniwa/Baniwa/assets/111711941/e2a60ac4-f8c4-4802-91a0-6518a639f8ee">
+  <img align="right" alt="Baniwa-gif" height="350" width="350" src="https://github.com/Baniwa/Baniwa/assets/111711941/ec6713f3-412a-44a7-8d59-bae63bea87a7">
   <img align="center" alt="Baniwa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Baniwa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Baniwa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
