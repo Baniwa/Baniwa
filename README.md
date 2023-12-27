@@ -39,4 +39,4 @@
 
 Que o código esteja sempre ao seu favor! 🚀
 
-Keep coding, Giulia (a.k.a. Baniwa)
+Keep coding,  Baniwa
