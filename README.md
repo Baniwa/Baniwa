@@ -1,11 +1,11 @@
 <div style="display: inline_block"><br>
+  <img align="center" alt="Baniwa-gif" height="350" width="350" src="https://github.com/Baniwa/Baniwa/assets/111711941/e2a60ac4-f8c4-4802-91a0-6518a639f8ee">
   <img align="center" alt="Baniwa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Baniwa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Baniwa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Baniwa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Baniwa-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="Baniwa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">  
-  <img align="right" alt="Baniwa-gif" src="https://github.com/Baniwa/Baniwa/assets/111711941/69d3a25a-2134-458b-b354-3c44b356d052">
 </div>
 
   
