@@ -21,5 +21,11 @@
 
 ## 
 
-AGORA É ESCREVER PRA TESTAR 
+<h4>Baniwa aqui, ou melhor, Giulia - sua programadora de TI favorita! 🤖✨</h4>
+<p>Se essa mensagem está chegando pela primeira vez até você, obrigada por embarcar nessa jornada de código comigo. Sua confiança é mais valiosa que uma variável global!</p>
 
+**Status Code**: 200 OK 
+
+Que o código esteja sempre ao seu favor! 🚀
+
+Keep coding, Giulia (a.k.a. Baniwa)
