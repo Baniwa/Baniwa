@@ -1,19 +1,22 @@
 
-<h1><span style="color:yellow;">##</span> こんにちは学生!<h2> 
+<h4>こんにちは学生!<h4> 
 
-<div><p><img align="up" alt="Baniwa-gif" height="350" width="350" src="https://cdn.discordapp.com/attachments/1189667244318404659/1189674713212014684/image-removebg.png?ex=659f05ea&is=658c90ea&hm=a9874144e9eed22cc115bc7a44dfa537dc1810f71d1470ec1fe236b1cbb5baaa&"> </p> </div>
-
-<div style="display:  inline_block"><br> 
-<p> </p>
-<img align="center" alt="Baniwa-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Baniwa-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Baniwa-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Baniwa-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Baniwa-Oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />  
-  <img align="center" alt="Baniwa-C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">    
-
-
+<div style="display:  inline_block"><br>  
+  <img align="left" alt="Baniwa-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" alt="Baniwa-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" alt="Baniwa-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" alt="Baniwa-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="Baniwa-Oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />  
+  <img align="left" alt="Baniwa-C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">    
 </div>
+
+<div><p>
+  <img align="left" alt="Baniwa-gif" height="350" width="350" src="https://cdn.discordapp.com/attachments/1189667244318404659/1189674713212014684/image-removebg.png?ex=659f05ea&is=658c90ea&hm=a9874144e9eed22cc115bc7a44dfa537dc1810f71d1470ec1fe236b1cbb5baaa&"> </p> </div>
+  
+<div> <a href="https://www.instagram.com/gihgoess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/ZmXzSvhGTd" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gihgoess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 
 
 ## 
