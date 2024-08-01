@@ -10,9 +10,6 @@
   <img align="left" alt="Baniwa-C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">    
 </div>
 
-<div><p>
-  <img align="right" alt="Baniwa-gif" height="350" width="350" src="https://cdn.discordapp.com/attachments/1189667244318404659/1189674713212014684/image-removebg.png?ex=659f05ea&is=658c90ea&hm=a9874144e9eed22cc115bc7a44dfa537dc1810f71d1470ec1fe236b1cbb5baaa&"> </p> </div>
-
 <div> 
 <a href="https://www.instagram.com/gihgoess/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
