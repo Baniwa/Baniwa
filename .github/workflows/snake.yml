@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  # Executa a cada 12 horas
   workflow_dispatch:
   push:
     branches:
@@ -16,6 +16,11 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v3
 
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
       - name: Generate the snake files
         uses: Platane/snk@v3
         with:
@@ -27,7 +32,7 @@ jobs:
 
       - name: Push new files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
-        with: 
+        with:
           target_branch: output
           build_dir: dist
           commit_message: Update snake animations
