@@ -44,8 +44,8 @@
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,typescript,vscode,github,git,react" />
-    <img src="https://skillicons.dev/icons?i=aws,py,selenium,mongodb,mysql,npm,php,laravel,nodejs," /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=aws,py,django,selenium,mysql,npm,php,laravel,nodejs,sqlite" /><br>
 </div>
 
 <br/>
