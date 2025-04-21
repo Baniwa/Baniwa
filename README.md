@@ -1,8 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=baniwa.baniwa" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Giulia+Gabriela!;" />
+    <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Giulia+Gabriela!;" alt="Typing SVG" />
+    </a>
 </h1>
 
 <h3 align="center">Sou uma desenvolvedora fullstack em formação, direto do Brasil 🇧🇷</h3>
@@ -10,42 +11,44 @@
 <br/>
 
 <div align="center">
- 
-  👩‍💻 Atualmente no nível **júnior**, aprendendo e construindo projetos com **foco em Front-end/Back-end**
-  
-  🌱 Estudando **React, JavaScript, Node.js, Docker, Git, Supabase e conceitos de UI/UX, PhP & Laravel**
-  
-  🔧 Explorando também o Back-end com **Node.js e ferramentas modernas como Supabase e APIs REST**
 
-  🚀 Já desenvolvi **landing pages, sistemas internos e ferramentas para pequenos negócios**  
-  
-  💬 Me pergunte sobre **HTML, CSS, React, Git ou como estou evoluindo como desenvolvedora fullstack!**
+👩‍💻 Atualmente no nível **júnior**, aprendendo e construindo projetos com **foco em Front-end/Back-end**  
 
-  🌍 Inglês intermediário/avançado — aberta a oportunidades remotas com equipes internacionais
-  
-  ⚡ Curiosidade: **Adoro transformar ideias em interfaces e funcionalidades reais. E sim, sempre com café por perto ☕**
+🌱 Estudando **React, JavaScript, Node.js, Docker, Git, Supabase e conceitos de UI/UX, PHP & Laravel**  
 
- </div>
- 
+🔧 Explorando também o Back-end com **Node.js e ferramentas modernas como Supabase e APIs REST**  
+
+🚀 Já desenvolvi **landing pages, sistemas internos e ferramentas para pequenos negócios**  
+
+💬 Me pergunte sobre **HTML, CSS, React, Git ou como estou evoluindo como desenvolvedora fullstack!**  
+
+🌍 Inglês intermediário/avançado — aberta a oportunidades remotas com equipes internacionais  
+
+⚡ Curiosidade: **Adoro transformar ideias em interfaces e funcionalidades reais. E sim, sempre com café por perto ☕**
+
+</div>
+
+<br/>
+
 <div align="center"> 
-  <a href="mailto:baniwa.cmd@gmail.com">
+  <a href="mailto:baniwa.cmd@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/giulia-gabriela/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/giulia-gabriela/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="x" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://seu-portfolio.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=aws,py,django,selenium,mysql,npm,php,laravel,nodejs,sqlite" /><br>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=aws,py,django,selenium,mysql,npm,php,laravel,nodejs,sqlite" /><br>
 </div>
 
 <br/>
@@ -65,12 +68,12 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-baniwa.vercel.app/?user=baniwa&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-baniwa.vercel.app/api?username=baniwa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-baniwa.vercel.app/api/top-langs/?username=baniwa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<br/>
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-baniwa.vercel.app/?user=baniwa&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-baniwa.vercel.app/api?username=baniwa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/><br/>
+  <img width="325" src="https://github-readme-stats-baniwa.vercel.app/api/top-langs/?username=baniwa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -80,7 +83,9 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href='https://ko-fi.com/V7V4RAK9C' target='_blank' rel="noopener noreferrer">
+    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
 </div>
 
 <br/>
