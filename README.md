@@ -70,9 +70,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Baniwa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Baniwa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Baniwa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Baniwa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=10&disable_animations=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baniwa&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&border_radius=10" height="150" alt="Top Languages" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=Baniwa&theme=tokyonight&hide_border=false&border_radius=10" height="150" alt="GitHub Streak" />
 </div>
 
 <br/><br/>
