@@ -55,9 +55,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://baniwa.github.io/baniwa/github-snake.svg" />
-  
-  <br/><br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baniwa/baniwa/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baniwa/baniwa/output/github-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/baniwa/baniwa/output/github-snake.svg" />
+  </picture>
 </div>
 
 <hr/>
