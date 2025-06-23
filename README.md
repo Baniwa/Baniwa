@@ -70,10 +70,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baniwa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=10&disable_animations=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baniwa&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&border_radius=10" height="150" alt="Top Languages" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=Baniwa&theme=tokyonight&hide_border=false&border_radius=10" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Baniwa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=10&disable_animations=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baniwa&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&border_radius=10" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Baniwa&theme=tokyonight&hide_border=false&border_radius=10" height="150" alt="GitHub Streak" />
 </div>
 
 <br/><br/>
