@@ -1,54 +1,85 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=baniwa.baniwa" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Giulia+Gabriela!;" alt="Typing SVG" />
-    </a>
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi,+I'm+Giulia+Gabriela!+👋;Full+Stack+Developer;AMS+%40+Softtek;Open+to+Remote+·+USD%2FEUR+🌍" alt="Typing SVG" />
+  </a>
 </h1>
 
-<h3 align="center">Sou uma desenvolvedora fullstack em formação, direto do Brasil 🇧🇷</h3>
+<h3 align="center">Full Stack Developer · Brasília, Brazil 🇧🇷</h3>
 
 <br/>
 
 <div align="center">
 
-👩‍💻 Atualmente no nível **júnior**, aprendendo e construindo projetos com **foco em Front-end/Back-end**  
+🏢 At **Softtek**, I provide AMS for a large-scale legacy PHP production system — daily incident resolution, live SQL operations, AWS Lambda reviews, and third-party integrations (Yalo, digital signature)
 
-🌱 Estudando **React, JavaScript, Node.js, Docker, Git, Supabase e conceitos de UI/UX, PHP & Laravel**  
+🐍 Built **Callista** at the **Brazilian Senate** — a Python/Django demand management system with automated task distribution across teams, deployed on AWS
 
-🔧 Explorando também o Back-end com **Node.js e ferramentas modernas como Supabase e APIs REST**  
+🔐 Pursuing **CompTIA Security+** — expanding into cybersecurity and secure application design
 
-🚀 Já desenvolvi **landing pages, sistemas internos e ferramentas para pequenos negócios**  
+🎓 Graduate in **Systems Analysis and Development (ADS)**
 
-💬 Me pergunte sobre **HTML, CSS, React, Git ou como estou evoluindo como desenvolvedora fullstack!**  
+🌍 English intermediate-advanced · Open to **remote opportunities in USD/EUR**
 
-🌍 Inglês intermediário/avançado — aberta a oportunidades remotas com equipes internacionais  
-
-⚡ Curiosidade: **Adoro transformar ideias em interfaces e funcionalidades reais. E sim, sempre com café por perto ☕**
+💬 Ask me about **React, Python/Django, PHP, SQL, or working with legacy systems in production**
 
 </div>
 
 <br/>
 
-<div align="center"> 
+<div align="center">
   <a href="mailto:baniwa.cmd@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/giulia-gabriela/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://seu-portfolio.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  <a href="https://giulia-gabriela.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
+
+<hr/>
+
+<h2 align="center">🚀 Experience Highlights</h2>
+<br/>
+
+<div align="center">
+
+| Where | Role | Stack |
+|---|---|---|
+| **Softtek** | Junior Fullstack Trainee — AMS | PHP · SQL · AWS Lambda · Yalo |
+| **Embaixada do México** | IT Analyst L1/L2 | PHP · Networking · Servers |
+| **Senado Federal** | Python Dev Intern | Python · Django · Oracle APEX · SQL |
+
+</div>
+
+<br/>
 
 <hr/>
 
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts,vscode,github,git" />
-  <img src="https://skillicons.dev/icons?i=aws,py,django,selenium,mysql,npm,php,laravel,nodejs,sqlite" /><br>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,django,nodejs" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,aws,docker,git,github,vscode" />
+</div>
+
+<br/>
+
+<hr/>
+
+<h2 align="center">🎓 Education & Certifications</h2>
+<br/>
+
+<div align="center">
+
+📘 **Systems Analysis and Development (ADS)** — Graduated
+
+🔐 **CompTIA Security+** — In progress *(target: 2026)*
+
 </div>
 
 <br/>
@@ -76,18 +107,3 @@
 </div>
 
 <br/><br/>
-
-<hr/>
-
-<h2 align="center">☕ Apoie meu trabalho</h2>
-
-<br/>
-
-<div align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=00020126580014br.gov.bcb.pix0136fd20d47a-c621-4931-88e9-3f61f49fca0852040000530398654045.005802BR5915Giulia%20Gabriela6006Brasil62070503%2A%2A%2A630409B2" width="180" alt="QR Code PIX R$5,00" />
-  <br/>
-  <strong>PIX · R$ 5,00 🇧🇷</strong><br/>
-  <code>fd20d47a-c621-4931-88e9-3f61f49fca08</code>
-</div>
-
-<br/>
