@@ -70,21 +70,24 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baniwa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=10&disable_animations=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baniwa&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&border_radius=10" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Baniwa&theme=tokyonight&hide_border=false&border_radius=10" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-two-beryl-38.vercel.app/api?username=Baniwa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=10&disable_animations=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-two-beryl-38.vercel.app/api/top-langs/?username=Baniwa&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&border_radius=10&count_private=true" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Baniwa&theme=tokyonight&hide_border=false&border_radius=10" height="150" alt="GitHub Streak" />
 </div>
 
 <br/><br/>
 
 <hr/>
 
+<h2 align="center">☕ Apoie meu trabalho</h2>
+
 <br/>
 
 <div align="center">
-  <a href='https://ko-fi.com/baniwa' target='_blank' rel="noopener noreferrer">
-    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-  </a>
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=00020126580014br.gov.bcb.pix0136fd20d47a-c621-4931-88e9-3f61f49fca0852040000530398654045.005802BR5915Giulia%20Gabriela6006Brasil62070503%2A%2A%2A630409B2" width="180" alt="QR Code PIX R$5,00" />
+  <br/>
+  <strong>PIX · R$ 5,00 🇧🇷</strong><br/>
+  <code>fd20d47a-c621-4931-88e9-3f61f49fca08</code>
 </div>
 
 <br/>
