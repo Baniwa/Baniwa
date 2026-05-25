@@ -63,7 +63,7 @@
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,django,nodejs" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,django,nodejs,java" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,aws,docker,git,github,vscode" />
 </div>
 
