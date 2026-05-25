@@ -49,7 +49,7 @@
 
 | Where | Role | Stack |
 |---|---|---|
-| **Softtek** | Junior Fullstack Trainee — AMS | PHP · SQL · AWS Lambda · Yalo |
+| **Softtek** | Junior Fullstack — AMS | PHP · SQL · AWS Lambda · Yalo |
 | **Embaixada do México** | IT Analyst L1/L2 | PHP · Networking · Servers |
 | **Senado Federal** | Python Dev Intern | Python · Django · Oracle APEX · SQL |
 
