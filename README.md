@@ -71,6 +71,48 @@
 
 <hr/>
 
+<h2 align="center">🔭 Featured Projects</h2>
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Baniwa/Alert-DOU" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Alert--DOU-View%20on%20GitHub-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**AI-powered monitor for Brazil's federal official journal**
+
+The _Diário Oficial da União_ is published daily across 300–600 pages. Alert DOU scrapes, extracts and summarises each edition using Gemini Flash — turning hours of reading into seconds.
+
+<br/>
+
+| Layer | Tech |
+|---|---|
+| Scraper | Playwright · WAF bypass · pdfplumber |
+| AI | Google Gemini Flash · prompt-injection guard |
+| API | FastAPI · Celery · Redis · slowapi |
+| Database | PostgreSQL 16 · SQLAlchemy 2 · Flyway |
+| Frontend | React 19 · TypeScript · Tailwind v4 · TanStack Query |
+| Deploy | Docker Compose · Railway |
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20Flash-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+
+</div>
+
+<br/>
+
+<hr/>
+
 <h2 align="center">🎓 Education & Certifications</h2>
 <br/>
 
