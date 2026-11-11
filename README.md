@@ -2,11 +2,11 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi,+I'm+Giulia+Gabriela!+👋;Full+Stack+Developer;AMS+%40+Softtek;Open+to+Remote+·+USD%2FEUR+🌍" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi,+I'm+Giulia+Gabriela!+👋;Java+Developer;Software+%40+Softtek;Open+to+Remote+·+USD%2FEUR+🌍" alt="Typing SVG" />
   </a>
 </h1>
 
-<h3 align="center">Full Stack Developer · Brasília, Brazil 🇧🇷</h3>
+<h3 align="center">Java Developer · Brasília, Brazil 🇧🇷</h3>
 
 <br/>
 
