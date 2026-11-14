@@ -2,17 +2,17 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi,+I'm+Giulia+Gabriela!+👋;Java+Developer;Software+%40+Softtek;Open+to+Remote+·+USD%2FEUR+🌍" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi,+I'm+Giulia+Gabriela!+👋;Full+Stack+Developer;Java+·+Python+·+React;Software+%40+Softtek;Open+to+Remote+·+USD%2FEUR+🌍" alt="Typing SVG" />
   </a>
 </h1>
 
-<h3 align="center">Java Developer · Brasília, Brazil 🇧🇷</h3>
+<h3 align="center">Full Stack Developer · Brasília, Brazil 🇧🇷</h3>
 
 <br/>
 
 <div align="center">
 
-🏢 At **Softtek**, I provide AMS for a large-scale legacy PHP production system — daily incident resolution, live SQL operations, AWS Lambda reviews, and third-party integrations (Yalo, digital signature)
+🏢 At **Softtek**, allocated to **Ternium** — modernizing a legacy Manufacturing Execution System (MES) with Java and Angular. Before that, AMS for a large-scale legacy PHP production system
 
 🐍 Built **Callista** at the **Brazilian Senate** — a Python/Django demand management system with automated task distribution across teams, deployed on AWS
 
@@ -20,9 +20,9 @@
 
 🎓 Graduate in **Systems Analysis and Development (ADS)**
 
-🌍 English intermediate-advanced · Open to **remote opportunities in USD/EUR**
+🌍 English — professional working proficiency · Open to **remote opportunities in USD/EUR**
 
-💬 Ask me about **React, Python/Django, PHP, SQL, or working with legacy systems in production**
+💬 Ask me about **Java, Python/Django, React, SQL, or modernizing legacy systems in production**
 
 </div>
 
@@ -49,7 +49,8 @@
 
 | Where | Role | Stack |
 |---|---|---|
-| **Softtek** | Junior Fullstack — AMS | PHP · SQL · AWS Lambda · Yalo |
+| **Softtek** · Ternium | Junior Fullstack — MES modernization | Java · Angular · SQL |
+| **Softtek** | Junior Fullstack — AMS (until Jun 2026) | PHP · SQL · AWS Lambda · Yalo |
 | **Embaixada do México** | IT Analyst L1/L2 | PHP · Networking · Servers |
 | **Senado Federal** | Python Dev Intern | Python · Django · Oracle APEX · SQL |
 
@@ -62,8 +63,8 @@
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,django,nodejs,java" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind,bootstrap" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=java,python,django,php,laravel,nodejs" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,aws,docker,git,github,vscode" />
 </div>
 
