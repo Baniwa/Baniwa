@@ -12,7 +12,7 @@
 
 <div align="center">
 
-🏢 At **Softtek**, allocated to **Ternium** — modernizing a legacy Manufacturing Execution System (MES) with Java and Angular. Before that, AMS for a large-scale legacy PHP production system
+🏢 Junior Java Developer at **Softtek**, allocated to **Ternium** — modernizing a legacy Manufacturing Execution System (MES) with Java and Angular. Before that, AMS for a large-scale legacy PHP production system
 
 🐍 Built **Callista** at the **Brazilian Senate** — a Python/Django demand management system with automated task distribution across teams, deployed on AWS
 
@@ -49,7 +49,7 @@
 
 | Where | Role | Stack |
 |---|---|---|
-| **Softtek** · Ternium | Junior Fullstack — MES modernization | Java · Angular · SQL |
+| **Softtek** · Ternium | Junior Java Developer — MES modernization | Java · Angular · SQL |
 | **Softtek** | Junior Fullstack — AMS (until Jun 2026) | PHP · SQL · AWS Lambda · Yalo |
 | **Embaixada do México** | IT Analyst L1/L2 | PHP · Networking · Servers |
 | **Senado Federal** | Python Dev Intern | Python · Django · Oracle APEX · SQL |
